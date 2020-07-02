@@ -1,0 +1,3 @@
+include:
+  - project: calebw/ci-test
+    file: '.gitlab-ci.yml'
